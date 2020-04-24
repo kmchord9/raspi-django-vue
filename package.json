@@ -1,0 +1,8 @@
+{
+  "name": "raspi-django-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kmchord9/raspi-django-vue.git",
+  "author": "kmchord9 <kmchord9@gmail.com>",
+  "license": "MIT"
+}
